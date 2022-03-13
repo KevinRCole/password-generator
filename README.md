@@ -18,7 +18,7 @@ My motivation and reason for doing this project was to learn how to use javascri
 
 ## Credits
 
-In writing this javascript function, I relied on information I learned in UW Bootcamp, including help from my instructor, and information contained in UW Bootcamp's instructional materials.  I also relied on help from UWBootcamp teaching assistants, a UWBootcamp tutor, and inforamtion from numersous sources on the web, including but not limited to sources that UWBootcamp referred me to.  UWBootcamp provided me with all the HTML CSS code to support this project, plus javascript starter code.
+In writing this javascript function, I relied on information I learned in UW Bootcamp, including help from my instructor, and information contained in UW Bootcamp's instructional materials.  I also relied on help from UWBootcamp teaching assistants, a UWBootcamp tutor, and information from numersous sources on the web, including but not limited to sources that UWBootcamp referred me to.  UWBootcamp provided me with all the HTML CSS code to support this project, plus javascript starter code.
 
 ## Access
 
