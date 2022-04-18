@@ -16,6 +16,12 @@ A user calls the function, and provides user input, via an interactive website t
 
 My motivation and reason for doing this project was to learn how to use javascript to interact with a user in a manner that retrieves input in order to create useful output -- output that it would be very difficult if not impossible for the user to generate on his/her/their own without the help of a computer.
 
+Here is a screen shot of the webpage: 
+</br>
+<img src="screen_shot.png" alt="screen shot of web page" height = "175" width = "200" />
+
+
+
 ## Credits
 
 In writing this javascript function, I relied on information I learned in UW Bootcamp, including help from my instructor, and information contained in UW Bootcamp's instructional materials.  I also relied on help from UWBootcamp teaching assistants, a UWBootcamp tutor, and information from numersous sources on the web, including but not limited to sources that UWBootcamp referred me to.  UWBootcamp provided me with all the HTML CSS code to support this project, plus javascript starter code.

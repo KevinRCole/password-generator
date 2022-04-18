@@ -86,6 +86,11 @@ var generatePassword = function() {
     
     } else if (charTypeUpper && charTypeLower && !charTypeNumbers && charTypeSpecial) {
       var passwordCharacterArray = alphaUpper.concat(alphaLower, specialChars);
+
+      // next two lines of script correct bug to allow user to select a password constructed out of numbers only
+    } else if (!charTypeUpper && !charTypeLower && charTypeNumbers && !charTypeSpecial) {
+      var passwordCharacterArray = numbers;
+
     };  
 
 
